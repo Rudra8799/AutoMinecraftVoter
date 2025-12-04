@@ -10,6 +10,8 @@ import hello
 import requestss
 import global_variables
 from servers.SSLproxies import NewProxy
+import servers
+import servers.changeproxy
 
 class ChangeProxy:
     @staticmethod
