@@ -8,6 +8,8 @@ import random
 import time
 import hello
 import requestss
+import global_variables
+from servers.SSLproxies import NewProxy
 
 class ChangeProxy:
     @staticmethod
