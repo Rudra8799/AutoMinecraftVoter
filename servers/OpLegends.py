@@ -1,6 +1,6 @@
 from servers import *
 from servers.changeproxy import ChangeProxy
-
+import requests
 
 class OpLegends:
     def __init__(self, option, msl_server="server/443038/vote/", ms_server="vote/580828",
