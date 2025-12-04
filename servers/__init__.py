@@ -6,7 +6,7 @@ from selenium.webdriver.chrome.service import Service
 
 import random
 import time
-import requests
+import requestss
 
 class ChangeProxy:
     @staticmethod
